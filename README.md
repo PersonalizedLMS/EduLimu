@@ -32,7 +32,7 @@ EduFlexLMS is built using a modern technology stack to ensure performance, scala
 - Docker & Kubernetes (for containerized deployment and scalability)
 - CI/CD Pipeline (Github Actions for continuous integration and deployment)
 
-**Meet Our Team**
+**Meet Our Team**\
 | [James Moseti](https://github.com/james-moseti) | [Christine Awuor](https://github.com/OdegiChristine) | [Adrian Baraka](https://github.com/adrianbaraka) | [Gift Nestah](https://github.com/PantheraNestah) | 
 
 

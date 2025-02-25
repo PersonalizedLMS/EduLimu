@@ -10,7 +10,8 @@ EduFlexLMS aims to enhance engagement and learning outcomes, making education mo
 - **Real-time Feedback:** Instant AI-powered feedback to improve student understanding.
 
 ## Technology Stack
-EduFlexLMS is built using a modern technology stack to ensure performance, scalability, and security:
+EduFlexLMS is built using a modern technology stack to ensure performance, scalability, and security:\
+
 **Frontend:**
 - ReactJS
 - Tailwind CSS

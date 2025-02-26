@@ -93,7 +93,7 @@ A special thanks to all contributors and the open-source community for their sup
 
 ---
 
-**Have an idea to improve EduLimu?** Open an issue or contribute to the project! 🚀
+**Have an idea to improve EduLimu?** Open an issue or contribute to the project! 
 
 
 
